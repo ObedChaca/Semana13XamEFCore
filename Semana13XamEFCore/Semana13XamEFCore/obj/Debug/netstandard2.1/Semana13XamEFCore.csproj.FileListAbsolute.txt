@@ -1,0 +1,15 @@
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\App.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Views\AlbumesPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Views\AlbumPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Views\MainPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Semana13XamEFCore.AssemblyInfoInputs.cache
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Semana13XamEFCore.AssemblyInfo.cs
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Semana13XamEFCore.csproj.CoreCompileInputs.cache
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\bin\Debug\netstandard2.1\Semana13XamEFCore.deps.json
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\bin\Debug\netstandard2.1\Semana13XamEFCore.dll
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\bin\Debug\netstandard2.1\ref\Semana13XamEFCore.dll
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\bin\Debug\netstandard2.1\Semana13XamEFCore.pdb
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\XamlC.stamp
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Semana13XamEFCore.dll
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\ref\Semana13XamEFCore.dll
+D:\Users\Obed Chaca\source\repos\Semana13XamEFCore\Semana13XamEFCore\Semana13XamEFCore\obj\Debug\netstandard2.1\Semana13XamEFCore.pdb
